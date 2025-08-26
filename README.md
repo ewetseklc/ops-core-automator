@@ -11,6 +11,9 @@ Early-career automation demo: **intake → validation → simple processing → 
 ![Lab preview](examples/lab_preview.png)
 ![Actuarial preview](examples/act_preview.png)
 
+- Lab example (open locally): examples/lab_example/report.html
+- Actuarial example (open locally): examples/act_example/report.html
+
 ## Quickstart
 ```bash
 python3 -m venv .venv
