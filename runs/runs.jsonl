@@ -1,0 +1,7 @@
+{"run_id": "LAB_0001", "mode": "lab", "ts": "2025-08-26 11:39:50", "status": "PASS", "notes": "rows=4, cols=2"}
+{"run_id": "ACT_0001", "mode": "act", "ts": "2025-08-26 11:40:15", "status": "PASS", "notes": "rows=4, cols=3"}
+{"run_id": "ACT_20250826_114424", "mode": "act", "ts": "2025-08-26 11:44:25", "status": "PASS", "notes": ""}
+{"run_id": "LAB_20250826_115311", "mode": "lab", "ts": "2025-08-26 11:53:11", "status": "PASS", "notes": ""}
+{"run_id": "ACT_20250826_115323", "mode": "act", "ts": "2025-08-26 11:53:23", "status": "PASS", "notes": ""}
+{"run_id": "LAB_20250826_133737", "mode": "lab", "ts": "2025-08-26 13:37:37", "status": "PASS", "notes": ""}
+{"run_id": "ACT_20250826_133753", "mode": "act", "ts": "2025-08-26 13:37:53", "status": "PASS", "notes": ""}
